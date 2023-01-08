@@ -1,0 +1,42 @@
+User Overview
+-------------
+Total number of users:      4
+Total number of tasks:      7
+-------------
+
+User: admin
+-------------
+Total tasks assigned:       2
+Total tasks percentage:     28.57%
+Tasks complete percentage:  50.0%
+Tasks left percentage:      50.0%
+Overdue tasks percentage:   0.0%
+-------------
+
+User: mango
+-------------
+Total tasks assigned:       3
+Total tasks percentage:     42.86%
+Tasks complete percentage:  0.0%
+Tasks left percentage:      100.0%
+Overdue tasks percentage:   0.0%
+-------------
+
+User: django
+-------------
+Total tasks assigned:       1
+Total tasks percentage:     14.29%
+Tasks complete percentage:  0.0%
+Tasks left percentage:      100.0%
+Overdue tasks percentage:   100.0%
+-------------
+
+User: melody
+-------------
+Total tasks assigned:       1
+Total tasks percentage:     14.29%
+Tasks complete percentage:  0.0%
+Tasks left percentage:      100.0%
+Overdue tasks percentage:   100.0%
+-------------
+

@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 30 Nov 2022, Yes
+admin, Freedom, Free people, 25 Dec 2022, 09 Nov 2024, No
+mango, collect mangoes, Go to the market and buy mangoes, 20 Dec 2022, 12 Jan 2023, No
+mango, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 30 Mar 2023, No
+mango, Fruit, Buy more fruit, 25 Dec 2022, 04 Jan 2023, No
+django, Hunting, Find all the bad guys, 25 Dec 2022, 10 Nov 2022, No
+melody, Music, Make a song, 25 Dec 2022, 02 Sep 2022, No
